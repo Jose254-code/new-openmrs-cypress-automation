@@ -34,8 +34,8 @@ openmrs-cypress-automation/
 ### 1. Clone the Repository
 
 ```bash
-git clone git@github.com:your-username/openmrs-cypress-patient-registration.git
-cd openmrs-cypress-patient-registration
+git clone git@github.com:Jose254-code/new-openmrs-cypress-automation.git
+cd new-openmrs-cypress-automation.git
 ```
 
 ### 2. Install Dependencies
